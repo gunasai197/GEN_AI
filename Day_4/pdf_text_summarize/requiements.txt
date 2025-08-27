@@ -1,4 +1,4 @@
 transformers
 torch
 gradio
-gradio_pdf
+pypdf2
